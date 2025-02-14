@@ -2,6 +2,7 @@
 <h3 align="center">Undergraduate student at Kyung Hee University in South Korea, majoring in industrial engineering.</h3>
 
 <br>
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
